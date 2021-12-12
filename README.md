@@ -1,5 +1,5 @@
 # Droplink-bot
-Make short link by using [Droplink](https://droplink.co/ref/DAKSHYADAV) API key. Made by @dakshy.
+Make short link by using [Droplink](https://droplink.co/ref/DAKSHYADAV) API key. Made by @dakshy. Give a star 🌟 and fork 🍽️ it.
 ### Installation
 
 #### The Easy Way
