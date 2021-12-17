@@ -13,3 +13,13 @@ Make short link by using [Droplink](https://droplink.co/ref/DAKSHYADAV) API key.
 * `API_ID`: Get this value from [my.telegram.org](https://my.telegram.org/apps).
 * `API_HASH`: Get this value from [my.telegram.org](https://my.telegram.org/apps).
 * `API_KEY`: Create [Droplink](https://droplink.co/ref/DAKSHYADAV) account then get this value from [Droplink API](https://droplink.co/ref/DAKSHYADAV).
+
+### How to Use?
+
+* Start your bot. 😅
+* Send any link to the bot.
+* Bot will autodetect and send you the shortened url.
+
+```
+In recent times, the Droplink servers are slow to respond, so your requests maybe delayed or result in an error. I cannot do anything to this problem.
+```
