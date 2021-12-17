@@ -21,6 +21,8 @@ Make short link by using [Droplink](https://droplink.co/ref/DAKSHYADAV) API key.
 * Send any link to the bot.
 * Bot will autodetect and send you the shortened url.
 
+<a href="https://github.com/dakshy/droplink-bot/blob/main/screenshots/Readme.md"><img src="https://img.shields.io/badge/See%20Screenshots-white?style=for-the-badge&logo=telegram" width="200"/></a></p>
+
 ```
 In recent times, the Droplink servers are slow to respond, so your requests maybe delayed or result in an error. I cannot do anything to this problem.
 ```
