@@ -16,6 +16,7 @@ Make short link by using [Droplink](https://droplink.co/ref/DAKSHYADAV) API key.
 
 ### How to Use?
 
+* Deploy the bot.
 * Start your bot. 😅
 * Send any link to the bot.
 * Bot will autodetect and send you the shortened url.
