@@ -1,6 +1,12 @@
 # Droplink-bot
 Make short link by using [Droplink](https://droplink.co/ref/DAKSHYADAV) API key. Made by @dakshy. Give a star 🌟 and fork 🍴 it.
 
+### New Features!!
+
+```
++ Shorten Many Links in a message. [For More Info, Check Screenshots.]
+```
+
 ### Installation
 
 <p><a href="https://heroku.com/deploy?template=https://github.com/dakshy/droplink-bot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200"/></a><br/>
