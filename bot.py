@@ -41,7 +41,7 @@ async def start(bot, message):
 @bot.on_message(filters.regex(r'https?://[^\s]+') & filters.private)
 async def link_handler(bot, message):
     links = message.text
-    links = links.split('/n')
+    links = links.split("\n")
     for num in range(len(links)):
       try:
         short_link = await get_shortlink(links[num])
