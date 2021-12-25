@@ -28,3 +28,8 @@ Make short link by using [Droplink](https://droplink.co/ref/DAKSHYADAV) API key.
 * Bot will autodetect and send you the shortened url.
 
 <a href="https://dakshy.github.io/droplink-bot/screenshots/"><img src="https://img.shields.io/badge/See%20Screenshots-white?style=for-the-badge&logo=telegram" width="200"/></a>
+
+### Credits
+
+* <a href="https://github.com/delivrance">Dan</a> for Pyrogram
+* <a href="https://github.com/Mahesh0253/GPlink-bot">Mahesh0253</a> for GPlink-bot.
