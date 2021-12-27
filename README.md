@@ -3,9 +3,8 @@ Make short link by using [Droplink](https://droplink.co/ref/DAKSHYADAV) API key.
 
 ### New Features!!
 
-```
-+ Shorten Many Links in a message. [For More Info, Check Screenshots.]
-```
+* Shorten Many Links in a message. [For More Info, Check Screenshots.]
+
 
 ### Installation
 
