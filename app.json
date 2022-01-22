@@ -1,12 +1,12 @@
 {
     "name": "Droplink Bot",
-    "description": "Make short link by using Droplink API key",
+    "description": "Make short link by using URLSHORTX API key",
     "keywords": [
         "telegram",
         "Droplink"
     ],
-    "website": "https://github.com/ToonsHub/Droplink-bot",
-    "repository": "https://github.com/ToonsHub/Droplink-bot",
+    "website": "https://github.com/Devansh20055/LINK-SHORTER",
+    "repository": "https://github.com/Devansh20055/LINK-SHORTER",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token",
@@ -21,7 +21,7 @@
             "value": ""
         },
         "API_KEY": {
-            "description": "Get API key from https://droplink.co/member/tools/api",
+            "description": "Get API key fromhttps://urlshortx.com/member/tools/api",
             "required": false
         }
     },
