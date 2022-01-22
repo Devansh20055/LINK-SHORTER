@@ -35,7 +35,7 @@ bot = Client('droplink bot',
 async def start(bot, message):
     await message.reply(
         f"**Hi {message.chat.first_name}!**\n\n"
-        "I'm a specialised bot for shortening <a href=\"https://bit.ly/3nOpqCl\">urlshortx.com</a> .\n Made by @TEAM_SILENT_KING.")
+        "<i><u><b>I'm a specialised bot for shortening <a href=\"https://bit.ly/3nOpqCl\">urlshortx.com</a> .\n Made by @TEAM_SILENT_KING.<i><u></b>")
 
 @bot.on_message(filters.command('api') & filters.private)
 async def start(bot, message):
