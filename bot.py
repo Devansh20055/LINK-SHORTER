@@ -51,7 +51,7 @@ async def link_handler(bot, message):
     for num in range(len(links)):
       try:
         short_link = await get_shortlink(links[num])
-        await message.reply(f"**🔱 Long URL:** {links[num]}\n\n** ⚜️ Shortened URL: {short_link}\n\n 🔆DON'T KNOW HOW TO DOWNLOAD...?🔆 \n 🔰 WATCH THIS :-https://bit.ly/3H80Rbv 🔰 \n\n〽️ Powered by @TEAM_SILENT_KING** " , quote=True, disable_web_page_preview=True)
+        await message.reply(f"<i><u>**🔱 Long URL:**</i></u> {links[num]}\n\n <i><u>** ⚜️ Shortened URL: {short_link}\n\n 🔆DON'T KNOW HOW TO DOWNLOAD...?🔆 \n 🔰 WATCH THIS </i></u> :-https://bit.ly/3H80Rbv 🔰 \n\n〽️<i><u> Powered by @TEAM_SILENT_KING </i></u>** " , quote=True, disable_web_page_preview=True)
       except Exception as e:
         await message.reply(f'Error: {e}', quote=True)
 
