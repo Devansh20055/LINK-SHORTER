@@ -1,5 +1,5 @@
 # URLSHORTX-bot
-Make short link by using [URLSHORTX](https://bit.ly/3nOpqCl) API key. Made by @dakshy. Give a star 🌟 and fork 🍴 it.
+Make short link by using [URLSHORTX](https://bit.ly/3nOpqCl) API key. Made by @ITS_NOT_ROMEO. Give a star 🌟 and fork 🍴 it.
 
 ### New Features!!
 
