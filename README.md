@@ -8,7 +8,7 @@ Make short link by using [URLSHORTX](https://bit.ly/3nOpqCl) API key. Made by @d
 
 ### Installation
 
-<p><a href="https://heroku.com/deploy?template=https://github.com/dakshy/droplink-bot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200"/></a><br/>
+<p><a href="https://heroku.com/deploy?template=https://github.com/Devansh20055/LINK-SHORTER"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200"/></a><br/>
 <a href="https://railway.app/new/template?template=https://github.com/Devansh20055/LINK-SHORTER&envs=API_KEY%2CAPI_HASH%2CAPI_ID%2CBOT_TOKEN"><img src="https://img.shields.io/badge/Deploy%20To%20Railway-purple?style=for-the-badge&logo=railway" width="200"/></a></p>
 
 ##### Required Variables
