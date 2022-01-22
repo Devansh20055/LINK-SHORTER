@@ -1,6 +1,6 @@
 * Start your bot after deploying.
 
-<img src="https://github.com/Devansh20055/LINK-SHORTER/blob/main/screenshots/img1.jpg" width="80%"/>
+<img src="https://github.com/Devansh20055/LINK-SHORTER/blob/main/screenshots/img1.jpg" width="80%"/ height="80%">
 
 * Send any link, bot will send shortened Link.
 
