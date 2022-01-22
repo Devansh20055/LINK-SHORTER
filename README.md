@@ -16,7 +16,7 @@ Make short link by using [URLSHORTX](https://bit.ly/3nOpqCl) API key. Made by @I
 * `BOT_TOKEN`: Create a bot using [@BotFather](https://t.me/BotFather), and get the Telegram API token.
 * `API_ID`: Get this value from [my.telegram.org](https://my.telegram.org/apps).
 * `API_HASH`: Get this value from [my.telegram.org](https://my.telegram.org/apps).
-* `API_KEY`: Create [Droplink](https://bit.ly/3nOpqCl) account then get this value from [Droplink API](https://bit.ly/3nOpqCl).
+* `API_KEY`: Create [URLSHORTX](https://bit.ly/3nOpqCl) account then get this value from [URLSHORTX API](https://bit.ly/3nOpqCl).
 
 ### How to Use?
 
@@ -31,4 +31,5 @@ Make short link by using [URLSHORTX](https://bit.ly/3nOpqCl) API key. Made by @I
 ### Credits
 
 * <a href="https://github.com/delivrance">Dan</a> for Pyrogram
-* <a href="https://github.com/Mahesh0253/GPlink-bot">DEVANSH</a> for DROPLINK-bot.
+* <a href="https://github.com/Devansh20055/LINK-SHORTER">DEVANSH</a> for URLSHORTX-bot.
+*DROPLINK BOT SOON!!!! WITH TUTORIAL LINK!!!
