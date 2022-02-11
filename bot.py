@@ -21,7 +21,7 @@ from pyrogram import Client, filters
 API_ID = environ.get('API_ID')
 API_HASH = environ.get('API_HASH')
 BOT_TOKEN = environ.get('BOT_TOKEN')
-API_KEY = environ.get('API_KEY', 'e3eddb3e7c5513eee187120fce788ddc4a1a643b')
+API_KEY = environ.get('API_KEY', '4b17f6a264b2bbe471bf6b71ae3cd28dfc36ae90')
 
 bot = Client('URLSHORTX',
              api_id=API_ID,
@@ -39,8 +39,8 @@ async def start(bot, message):
 
 @bot.on_message(filters.command('help') & filters.private)
 async def start(bot, message):
-      await message.reply(
-          f"**</B></I>HeLlo Everyone. Send Your Link 1st❕ I Will Send Short Link 👍 \n\n🔰TRY MY OTHER BOTS 🔰  \n✅ ☞ ᴍᴏᴠɪᴇ ꜱᴇᴀʀᴄʜ ʙᴏᴛ ⭐ ☞ @STORE_FOR_ALL_BOT  \n✅ ☞ ᴅʀᴏᴘʟɪɴᴋ ꜱʜᴏʀᴛ ☞@DROPLINK_CREATOR_BOT \n✅ ☞ URLSHORTX ☞ \n✅ ☞ OTHER SHORTER ☞ @STORE_FOR_ALL_BOT  \n✅ ☞ Group Manager Bot ☞ @STORE_FOR_ALL_BOT  \n\n 👁️‍🗨️ Powered byTEAM SILENT KING  </B></I>")
+      await message.re.ply(
+          f"**__ 👻👻 HeLlo BUDDY 👻👻. Send Your Link 1st❕ \n I Will Send Short Link 👍 \n\n🔰TRY MY OTHER BOTS 🔰  \n✅ ☞ ᴍᴏᴠɪᴇ ꜱᴇᴀʀᴄʜ ʙᴏᴛ ⭐ ☞ @STORE_FOR_ALL_BOT  \n✅ ☞ ᴅʀᴏᴘʟɪɴᴋ ꜱʜᴏʀᴛ ☞@DROPLINK_CREATOR_BOT \n✅ ☞ URLSHORTX ☞ \n✅ ☞ OTHER SHORTER ☞ @STORE_FOR_ALL_BOT  \n✅ ☞ Group Manager Bot ☞ @STORE_FOR_ALL_BOT  \n\n 👁️‍🗨️ Powered byTEAM SILENT KING  __")
 
 
 @bot.on_message(filters.command('api') & filters.private)
