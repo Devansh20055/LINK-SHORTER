@@ -40,7 +40,7 @@ async def start(bot, message):
 @bot.on_message(filters.command('help') & filters.private)
 async def start(bot, message):
       await message.reply(
-          f"**_👻👻 HeLlo {message.chat.first_name} 👻👻.\n Send Your Link 1st❕ \n I Will Send Short Link 👍 \n\n🔰TRY MY OTHER BOTS 🔰  \n✅ ☞ ᴍᴏᴠɪᴇ ꜱᴇᴀʀᴄʜ ʙᴏᴛ ⭐ ☞ @STORE_FOR_ALL_BOT  \n✅ ☞ ᴅʀᴏᴘʟɪɴᴋ ꜱʜᴏʀᴛ ☞@DROPLINK_CREATOR_BOT \n✅ ☞ URLSHORTX ☞ \n✅ ☞ OTHER SHORTER ☞ @STORE_FOR_ALL_BOT  \n✅ ☞ Group Manager Bot ☞ @STORE_FOR_ALL_BOT  \n\n 🔰 Powered by TEAM SILENT KING 🔰 _")
+          f"**__👻👻 HeLlo {message.chat.first_name} 👻👻.\n Send Your Link 1st❕ I Will Send Short Link 👍 \n\n🔰TRY MY OTHER BOTS 🔰  \n✅ ☞ ᴍᴏᴠɪᴇ ꜱᴇᴀʀᴄʜ ʙᴏᴛ ⭐ ☞ @STORE_FOR_ALL_BOT  \n✅ ☞ ᴅʀᴏᴘʟɪɴᴋ ꜱʜᴏʀᴛ ☞@DROPLINK_CREATOR_BOT \n✅ ☞ URLSHORTX ☞ \n✅ ☞ OTHER SHORTER ☞ @STORE_FOR_ALL_BOT  \n✅ ☞ Group Manager Bot ☞ @STORE_FOR_ALL_BOT  \n\n 🔰 Powered by TEAM SILENT KING 🔰 __")
 
 
 @bot.on_message(filters.command('api') & filters.private)
