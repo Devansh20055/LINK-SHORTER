@@ -1,5 +1,5 @@
 # DO NOT REMOVE CREDITS
-# Copyright (c) 2021 dakshy/droplink-bot
+# Copyright (c) 2021 Devansh20055/LINK-SHORTER
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU Affero General Public License as published
