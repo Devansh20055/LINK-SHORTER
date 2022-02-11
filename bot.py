@@ -23,7 +23,7 @@ API_HASH = environ.get('API_HASH')
 BOT_TOKEN = environ.get('BOT_TOKEN')
 API_KEY = environ.get('API_KEY', 'e3eddb3e7c5513eee187120fce788ddc4a1a643b')
 
-bot = Client('droplink bot',
+bot = Client('URLSHORTX',
              api_id=API_ID,
              api_hash=API_HASH,
              bot_token=BOT_TOKEN,
@@ -35,13 +35,13 @@ bot = Client('droplink bot',
 async def start(bot, message):
     await message.reply(
         f"**Hi {message.chat.first_name}!**\n\n"
-        "<i><u><b>I'm a specialised bot for shortening <a href=\"https://bit.ly/3nOpqCl\">urlshortx.com</a> .\n Made by @TEAM_SILENT_KING.<i><u></b>")
+        "<i><u><b>I'm a specialised bot for shortening <a href=\"https://bit.ly/3nOpqCl\">urlshortx.com</a> .\n 🔰📍Made by @TEAM_SILENT_KING 🔰📍. \n ⚜️ MY DEV :- @ITS_NOT_ROMEO ⚜️ <i><u></b>")
 
 @bot.on_message(filters.command('api') & filters.private)
 async def start(bot, message):
     await message.reply(
         f"**Hi {message.chat.first_name}! Send Your Api Here 😉**\n\n"
-        "Some Went Worng contact 👉 <a href=\"https://t.me/OFF_CHATS\">@OFF_CHATS</a>.")
+        "Some Went Worng contact  THIS IS UNDER DEVELOPMENT STAGE ")
 
 
 @bot.on_message(filters.regex(r'https?://[^\s]+') & filters.private)
