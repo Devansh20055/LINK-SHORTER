@@ -34,13 +34,13 @@ bot = Client('URLSHORTX',
 @bot.on_message(filters.command('start') & filters.private)
 async def start(bot, message):
     await message.reply(
-        f"**Hi {message.chat.first_name}!**\n\n"
+        f"**Hi {mention}!**\n\n"
         "<i><u><b>I'm a specialised bot for shortening <a href=\"https://bit.ly/3nOpqCl\">urlshortx.com</a> .\n 🔰📍Made by @TEAM_SILENT_KING 🔰📍. \n ⚜️ MY DEV :- @ITS_NOT_ROMEO ⚜️ <i><u></b>")
 
 @bot.on_message(filters.command('help') & filters.private)
 async def start(bot, message):
       await message.re.ply(
-          f"**👻👻 HeLlo {message.chat.first_name} 👻👻. Send Your Link 1st❕ \n I Will Send Short Link 👍 \n\n🔰TRY MY OTHER BOTS 🔰  \n✅ ☞ ᴍᴏᴠɪᴇ ꜱᴇᴀʀᴄʜ ʙᴏᴛ ⭐ ☞ @STORE_FOR_ALL_BOT  \n✅ ☞ ᴅʀᴏᴘʟɪɴᴋ ꜱʜᴏʀᴛ ☞@DROPLINK_CREATOR_BOT \n✅ ☞ URLSHORTX ☞ \n✅ ☞ OTHER SHORTER ☞ @STORE_FOR_ALL_BOT  \n✅ ☞ Group Manager Bot ☞ @STORE_FOR_ALL_BOT  \n\n 🔰 Powered by TEAM SILENT KING 🔰 ")
+          f"**👻👻 HeLlo {mention} 👻👻. Send Your Link 1st❕ \n I Will Send Short Link 👍 \n\n🔰TRY MY OTHER BOTS 🔰  \n✅ ☞ ᴍᴏᴠɪᴇ ꜱᴇᴀʀᴄʜ ʙᴏᴛ ⭐ ☞ @STORE_FOR_ALL_BOT  \n✅ ☞ ᴅʀᴏᴘʟɪɴᴋ ꜱʜᴏʀᴛ ☞@DROPLINK_CREATOR_BOT \n✅ ☞ URLSHORTX ☞ \n✅ ☞ OTHER SHORTER ☞ @STORE_FOR_ALL_BOT  \n✅ ☞ Group Manager Bot ☞ @STORE_FOR_ALL_BOT  \n\n 🔰 Powered by TEAM SILENT KING 🔰 ")
 
 
 @bot.on_message(filters.command('api') & filters.private)
