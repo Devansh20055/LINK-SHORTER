@@ -40,14 +40,14 @@ async def start(bot, message):
 @bot.on_message(filters.command('help') & filters.private)
 async def start(bot, message):
       await message.reply(
-          f"**__👻👻 HeLlo {message.chat.first_name} 👻👻.\n Send Your Link 1st❕ I Will Send Short Link 👍 \n\n <u><b><i> 🔰TRY MY OTHER BOTS 🔰  \n\n ✅ ☞ ᴍᴏᴠɪᴇ ꜱᴇᴀʀᴄʜ ʙᴏᴛ ⭐ ☞ @STORE_FOR_ALL_BOT  \n\n ✅ ☞ ᴅʀᴏᴘʟɪɴᴋ ꜱʜᴏʀᴛ ☞ @DROPLINK_CREATOR_BOT\n\n ✅ ☞ URLSHORTX ☞ @link_shorter_op_bot \n\n  ✅ ☞ OTHER SHORTER ☞ @STORE_FOR_ALL_BOT  \n\n ✅ ☞ Group Manager Bot ☞ @STORE_FOR_ALL_BOT  \n\n 🔰 Powered by TEAM SILENT KING 🔰  \n\n ⚡️⚡️ FOR MORE OPEN SOURCE FOLLOW </u></b></i> :- [DEVANSH20055](https://github.com/Devansh20055) ⚡️⚡️ __ ",  disable_web_page_preview=True)
+          f"**__👻👻 HeLlo {message.chat.first_name} 👻👻.\n Send Your Link 1st❕ I Will Send Short Link 👍 \n\n <u><b><i> 🔰TRY MY OTHER BOTS 🔰  \n\n ✅ ☞ ᴍᴏᴠɪᴇ ꜱᴇᴀʀᴄʜ ʙᴏᴛ ⭐ ☞ @STORE_FOR_ALL_BOT  \n\n ✅ ☞ ᴅʀᴏᴘʟɪɴᴋ ꜱʜᴏʀᴛ ☞ @DROPLINK_CREATOR_BOT\n\n ✅ ☞ URLSHORTX ☞ @link_shorter_op_bot \n\n  ✅ ☞ OTHER SHORTER ☞ @STORE_FOR_ALL_BOT  \n\n ✅ ☞ Group Manager Bot ☞ @STORE_FOR_ALL_BOT  \n\n 🔰 Powered by [TEAM SILENT KING](https://t.me/team_silent_king) 🔰  \n\n ⚡️⚡️ FOR MORE OPEN SOURCE FOLLOW </u></b></i> :- [DEVANSH20055](https://github.com/Devansh20055) ⚡️⚡️ __ ",  disable_web_page_preview=True)
 
 
 @bot.on_message(filters.command('source') & filters.private)
 async def start(bot, message):
     await message.reply(
         f"**Hi {message.chat.first_name}! **\n\n"
-        " **HERE IS THE SOURCE CODE :- \n https://github.com/Devansh20055/droplink-convertor **<i><b><u> \n\n Star ⭐️ THE REPO TOO ** \n\n 🔰📍Made by @TEAM_SILENT_KING 🔰📍. \n\n ⚜️ MADE BY  :- @ITS_NOT_ROMEO ⚜️ \n\n ⚡️⚡️ FOR MORE OPEN SOURCE FOLLOW :- [DEVANSH20055](https://github.com/Devansh20055) \n ON GITHUB ⚡️⚡️ \n\n ‼️ USE /SOURCE FOR SOURCE CODE OF BOT ‼️ </i></u></b>", disable_web_page_preview=True )
+        " **HERE IS THE SOURCE CODE :- \n https://github.com/Devansh20055/LINK-SHORTER **<i><b><u> \n\n Star ⭐️ THE REPO TOO ** \n\n 🔰📍Made by @TEAM_SILENT_KING 🔰📍. \n\n ⚜️ MADE BY  :- @ITS_NOT_ROMEO ⚜️ \n\n ⚡️⚡️ FOR MORE OPEN SOURCE FOLLOW :- [DEVANSH20055](https://github.com/Devansh20055) \n ON GITHUB ⚡️⚡️ \n\n ‼️ USE /SOURCE FOR SOURCE CODE OF BOT ‼️ </i></u></b>", disable_web_page_preview=True )
 
 
 
