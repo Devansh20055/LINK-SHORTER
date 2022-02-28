@@ -32,4 +32,10 @@ Make short link by using [URLSHORTX](https://bit.ly/3nOpqCl) API key. Made by @I
 
 * <a href="https://github.com/delivrance">Dan</a> for Pyrogram
 * <a href="https://github.com/Devansh20055/LINK-SHORTER">DEVANSH</a> for URLSHORTX-bot.
-*DROPLINK BOT SOON!!!! WITH TUTORIAL LINK!!!
+* <a href ="https://github.com/Devansh20055/droplink-convertor"> DEVANSH  </a> FOR DROPLINK BOT 
+
+### BOT LIST 
+
+* <a href ="https://github.com/Devansh20055/droplink-convertor">DROPLINK BOT </a>
+* <a href="https://github.com/Devansh20055/LINK-SHORTER">URLSHORTX BOT</a> 
+* GP LINKS BOT SOON 
